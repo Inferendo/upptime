@@ -12,7 +12,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.visidea.ai
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://docs.visidea.ai/img/visidea.png
+  # https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Visidea
   introTitle: "**Visidea** - Visual Search and Product Recommendations for e-commerce websites."
   introMessage: This is the **status page** for the services of [Visidea](https://visidea.ai).
