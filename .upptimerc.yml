@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Website
     url: https://visidea.ai
+  - name: APIs
+    url: https://api.visidea.ai/api/health
 assignees: # Users to assign downtime issues (optional)
   - arolando
 status-website:
