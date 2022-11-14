@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/visidea.ai.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 2886,
-    "timeDay": 886,
-    "timeWeek": 1012,
-    "timeMonth": 2680,
-    "timeYear": 2886,
+    "uptimeYear": "99.97%",
+    "time": 2843,
+    "timeDay": 882,
+    "timeWeek": 948,
+    "timeMonth": 2632,
+    "timeYear": 2843,
     "dailyMinutesDown": {
       "2022-10-22": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 229,
-    "timeWeek": 367,
-    "timeMonth": 305,
-    "timeYear": 316,
+    "time": 314,
+    "timeDay": 227,
+    "timeWeek": 355,
+    "timeMonth": 304,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 376,
-    "timeWeek": 392,
-    "timeMonth": 326,
+    "timeDay": 358,
+    "timeWeek": 393,
+    "timeMonth": 329,
     "timeYear": 330,
     "dailyMinutesDown": {}
   }
