@@ -24,19 +24,19 @@
     "url": "https://api.visidea.ai/api/health",
     "icon": "https://visidea.ai/wp-content/uploads/2022/02/cropped-favicon_Tavola-disegno-1-1-192x192.png",
     "slug": "ap-is",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "93.47%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.86%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.88%",
     "time": 298,
     "timeDay": 190,
     "timeWeek": 239,
     "timeMonth": 291,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2022-11-26": 94
+      "2022-11-26": 82
     }
   },
   {
