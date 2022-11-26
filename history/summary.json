@@ -24,7 +24,7 @@
     "url": "https://api.visidea.ai/api/health",
     "icon": "https://visidea.ai/wp-content/uploads/2022/02/cropped-favicon_Tavola-disegno-1-1-192x192.png",
     "slug": "ap-is",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "94.31%",
     "uptimeWeek": "99.19%",
